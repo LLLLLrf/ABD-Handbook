@@ -8,6 +8,21 @@
 | [Tools Collection](https://github.com/LLLLLrf/ToolsCollection)             | 工具集收录 |
 | [SCNU-ABD-Thesis-template](https://github.com/kikixiong/SCNU-ABD-Thesis-template) | 毕业论文LaTex模板 |
 
+## Food Menu
+| Restaurant | Recommended dishes |
+| ---------- | ------------------ |
+| 江西小炒  |  农家一碗香 |
+| 海记手撕鸡 | 柠檬酸辣鸡 |
+| 肉元祖 | ALL |
+| 小森食堂 | 奥特鳗 猪扒饭 |
+| 朴大叔 | 铁板洋葱牛肉 吞拿鱼 |
+| 木桶饭 | 茄子煲 花菜炒肉 |
+| 光头佬 | 金银馒头 烤茄子 |
+| 姑娘手 | biangbiang面 肉夹馍 |
+
+
+
+
 ## Assignment Reference
 | name | description |
 | ---- | ----------- |
