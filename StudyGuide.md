@@ -1,3 +1,5 @@
+更多内容详见 [Tools Collection](https://github.com/LLLLLrf/ToolsCollection)
+
 # 网课
 | 课程名称 | 课程内容 |
 | ------- |  -------- |
@@ -12,5 +14,7 @@
 | ------- | -------- |
 | [LeetCode](https://leetcode.cn/) | 算法刷题 |
 | [OI WIKI](https://oi.wiki/) | 算法手册 |
+| [CS自学指南 (csdiy.wiki)](https://csdiy.wiki/)               | CS自学网站，方向丰富                                     | 
+| [Data Structure Visualization (usfca.edu)](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) | 数据结构与算法，可视化           | 
+| [科研废物导航 (yanweb.top)](https://www.yanweb.top/)         | 科研工具集合        |
 
-更多内容详见 [Tools Collection](https://github.com/LLLLLrf/ToolsCollection)
