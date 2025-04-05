@@ -1,4 +1,6 @@
 ## Food Menu
+周边美食
+
 | Restaurant | Recommended dishes | Location |
 | ---------- | ------------------ | -------- |
 | 江西小炒  |  农家一碗香 | 阳光一楼电影院旁 |
@@ -12,7 +14,11 @@
 | 铁锅焖面 | 铁锅焖面 | 阳光二楼 |
 
 ## Street Food
+小摊
+
 | Name | Recommended dishes |
 | ---------- | ------------------ |
 | 张老板炒粉 | 炒粉 |
 | 糖水铺 | 仙草糖水 |
+
+更多美食详见[CollegeLife](./CollegeLife.md)
