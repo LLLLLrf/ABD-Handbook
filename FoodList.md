@@ -21,4 +21,4 @@
 | 张老板炒粉 | 炒粉 |
 | 糖水铺 | 仙草糖水 |
 
-更多美食详见[CollegeLife](./CollegeLife.md)
+更多美食详见 [CollegeLife](./CollegeLife.md)
