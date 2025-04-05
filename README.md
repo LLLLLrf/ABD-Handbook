@@ -1,7 +1,7 @@
 # ABD-Handbook
 
 ## Preceding Work
-| name | description |
+| Name | Description |
 | ---- | ----------- |
 | [GPA-Calculator](https://github.com/LLLLLrf/GPA-Calculate)                 | 教务系统GPA计算插件，快捷查询计算分析各时段绩点 |
 | [ScoreSearchOnSCNUjwxt](https://github.com/FaterYU/ScoreSearchOnSCNUjwxt)  | 快捷查分脚本 |
@@ -20,11 +20,16 @@
 | 光头佬 | 金银馒头 烤茄子 |
 | 姑娘手 | biangbiang面 肉夹馍 |
 
+## Street Food
+| Name | Recommended dishes |
+| ---------- | ------------------ |
+| 张老板炒粉 | 炒粉 |
+| 糖水铺 | 仙草糖水 |
 
 
 
 ## Assignment Reference
-| name | description |
+| Name | Description |
 | ---- | ----------- |
 | [Object-Oriented Programming (OOP)](https://github.com/LLLLLrf/OOP-Assignment) | 后缀表达式转换 |
 | [Software Engineering](https://github.com/FaterYU/CafeManagement) | 软件开发 |
