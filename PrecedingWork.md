@@ -7,6 +7,7 @@
 | [ScoreSearchOnSCNUjwxt](https://github.com/FaterYU/ScoreSearchOnSCNUjwxt)  | 快捷查分脚本 |
 | [Tools Collection](https://github.com/LLLLLrf/ToolsCollection)             | 工具集收录 |
 | [SCNU-ABD-Thesis-template](https://github.com/kikixiong/SCNU-ABD-Thesis-template) | 毕业论文LaTex模板 |
+| [NEXT-SCNUThesis](https://github.com/FaterYU/NEXT-SCNUThesis) | 毕业论文LaTex模板2 |
 
 ## Assignment Reference
 仅供参考
