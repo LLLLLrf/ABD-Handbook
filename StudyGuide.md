@@ -1,4 +1,4 @@
-更多内容详见 [Tools Collection](https://github.com/LLLLLrf/ToolsCollection)
+**更多内容详见** [**Tools Collection**](https://github.com/LLLLLrf/ToolsCollection)
 
 # 网课
 | 课程名称 | 课程内容 |
