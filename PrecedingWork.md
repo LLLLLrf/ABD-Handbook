@@ -23,3 +23,5 @@
 | [Software Process Management](https://github.com/FaterYU/BodyBuddy) | 软件过程管理 |
 | [Software Implementation](https://github.com/LLLLLrf/WearWizard) | 软件实作 |
 | [NLP](https://github.com/LLLLLrf/RuoZhiBa_Translator) | 弱智吧数据集语言模型训练 |
+| [Knowledge Representation](https://github.com/LLLLLrf/GemAndDragon-PrologGame) | Prolog游戏设计开发 |
+| [Distributed System](https://github.com/LLLLLrf/FederatedLearning-MNIST) | 联邦学习训练MNIST数据集 |
